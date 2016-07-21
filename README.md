@@ -1,4 +1,4 @@
 # HelloWorld
-First trial in Github
+First trial
 test commit XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 aaaaaaaaaaaaaa
